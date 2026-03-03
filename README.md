@@ -20,7 +20,7 @@ I'm an **AI Architect and Enterprise Solutions Designer** with deep expertise in
 
 Previously at **Microsoft** and **Accenture**, I've led complex AI transformations at scale.
 
-📘 I'm the author of **"Beyond the Prompt: Building Agentic AI & Enterprise RAG Systems on Azure"** — a comprehensive technical guide covering production AI engineering, multi-agent architectures, evaluation methodologies, security, observability, and 10+ end-to-end Azure AI projects.
+📘 I'm the author of **"From Prompts to Production: Building Agentic AI & Enterprise RAG Systems on Azure"** — a comprehensive technical guide covering production AI engineering, multi-agent architectures, evaluation methodologies, security, observability, and 10+ end-to-end Azure AI projects.
 
 ---
 
@@ -55,7 +55,7 @@ Previously at **Microsoft** and **Accenture**, I've led complex AI transformatio
 <tr>
 <td width="70%">
 
-### Beyond the Prompt
+### From Prompts to Production
 **Building Agentic AI & Enterprise RAG Systems on Azure**
 
 A production-focused technical book covering the full lifecycle of enterprise AI engineering — from foundational RAG architecture to advanced multi-agent orchestration, evaluation, security, compliance, and deployment.
