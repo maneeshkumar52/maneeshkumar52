@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:50E6FF&height=200&section=header&text=Maneesh%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Architect%20%7C%20Azure%20AI%20Engineer%20%7C%20Author&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:50E6FF&height=200&section=header&text=Maneesh%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Architect%20%7C%20Agentic%20AI%20%7C%20Azure%20AI&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
@@ -16,36 +16,18 @@
 
 ## 👋 About Me
 
-I'm an **AI Architect and Enterprise Solutions Designer** with deep expertise in building production-grade AI systems on Azure. I specialize in designing scalable **Retrieval-Augmented Generation (RAG)** pipelines, **Agentic AI** orchestration frameworks, and end-to-end enterprise AI solutions — having shipped these across industries including banking, healthcare, legal, HR, and e-commerce.
+I'm an **AI Architect specializing in Agentic AI & Enterprise RAG systems on Azure**.
 
-Previously at **Microsoft** and **Accenture**, I've led complex AI transformations at scale.
+I design and build **production-grade AI platforms** including:
+- Multi-agent orchestration systems  
+- Retrieval-Augmented Generation (RAG) pipelines  
+- Enterprise copilots across domains  
 
-📘 I'm the author of **"From Prompts to Agentic AI: Building Agentic AI & Enterprise RAG Systems on Azure"** — a comprehensive technical guide covering production AI engineering, multi-agent architectures, evaluation methodologies, security, observability, and 10+ end-to-end Azure AI projects.
+💼 Experience across **Banking, Healthcare, HR, Legal, E-commerce, and Enterprise Platforms**  
+🏢 Previously worked with **Microsoft & Accenture**
 
----
-
-## 🛠️ Core Tech Stack
-
-### ☁️ Azure AI Platform
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Azure AI Search](https://img.shields.io/badge/Azure_AI_Search-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Azure Container Apps](https://img.shields.io/badge/Azure_Container_Apps-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Cosmos DB](https://img.shields.io/badge/Cosmos_DB-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=flat-square&logo=microsoft-azure&logoColor=white)
-
-### 🤖 AI / ML Frameworks
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-5C2D91?style=flat-square&logo=microsoft&logoColor=white)
-![AutoGen](https://img.shields.io/badge/AutoGen-FF6B35?style=flat-square&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-### 💻 Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+📘 Author of:  
+**"From Prompts to Agentic AI: Building Agentic AI & Enterprise RAG Systems on Azure"**
 
 ---
 
@@ -55,24 +37,24 @@ Previously at **Microsoft** and **Accenture**, I've led complex AI transformatio
 <tr>
 <td width="70%">
 
-### From Prompts to Agentic AI
+### From Prompts to Agentic AI  
 **Building Agentic AI & Enterprise RAG Systems on Azure**
 
-A production-focused technical book covering the full lifecycle of enterprise AI engineering — from foundational RAG architecture to advanced multi-agent orchestration, evaluation, security, compliance, and deployment.
-
-**What's inside:**
-- 🏗️ 10 end-to-end Azure AI projects across enterprise sectors
-- 🤖 Multi-agent system design with AutoGen & Semantic Kernel
-- 📊 RAG evaluation methodologies & observability patterns
-- 🔐 Security, compliance & responsible AI governance
-- ☁️ Production deployment on Azure Container Apps
+A production-focused guide covering:
+- Enterprise RAG architectures  
+- Agentic AI systems (AutoGen, Semantic Kernel)  
+- Evaluation, observability & guardrails  
+- Azure production deployment  
 
 </td>
+
 <td width="30%" align="center">
 
 📖 **Available Now**
 
-*Comprehensive guide for AI Engineers building production systems on Azure*
+[Kindle](https://www.amazon.in/dp/B0GRD8XTHH)  
+[Paperback](https://www.amazon.in/dp/B0GTLDQSSW)  
+[Hardcover](https://www.amazon.in/dp/B0GTLGXY32)
 
 </td>
 </tr>
@@ -80,20 +62,73 @@ A production-focused technical book covering the full lifecycle of enterprise AI
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Enterprise AI & Agentic Systems Portfolio
 
-| Project | Description | Stack |
-|---|---|---|
-| [🔍 rag-app](https://github.com/maneeshkumar52/rag-app) | Enterprise RAG pipeline with Azure AI Search + OpenAI | `Azure OpenAI` `AI Search` `Python` |
-| [🏦 banking-support-agent](https://github.com/maneeshkumar52/banking-support-agent) | Intelligent banking support multi-agent system | `AutoGen` `Azure OpenAI` `FastAPI` |
-| [📈 contoso-research-system](https://github.com/maneeshkumar52/contoso-research-system) | Financial research & analysis platform | `LangChain` `Cosmos DB` `Python` |
-| [🛒 ecommerce-assistant](https://github.com/maneeshkumar52/ecommerce-assistant) | Conversational e-commerce AI assistant | `Semantic Kernel` `Azure OpenAI` |
-| [🤝 contoso-support-agent](https://github.com/maneeshkumar52/contoso-support-agent) | Enterprise customer support agent | `Azure OpenAI` `AI Search` |
-| [📄 github-repo-documentation](https://github.com/maneeshkumar52/github-repo-documentation) | Auto-documentation generator for GitHub repos | `Python` `OpenAI` `GitHub API` |
+### 🧠 Core Platforms
+| Project | Description |
+|---|---|
+| [🔍 rag-app](https://github.com/maneeshkumar52/rag-app) | Production-ready RAG pipeline with Azure AI Search |
+| [🤖 enterprise-copilot](https://github.com/maneeshkumar52/enterprise-copilot) | End-to-end enterprise AI copilot platform |
+| [📊 executive-briefing-system](https://github.com/maneeshkumar52/executive-briefing-system) | AI-powered executive insights & summarization |
+| [📈 financial-research-system](https://github.com/maneeshkumar52/financial-research-system) | Financial intelligence & research automation |
 
 ---
 
-## 🎯 Areas of Expertise
+### 🏦 Banking & Financial AI
+| Project | Description |
+|---|---|
+| [🏦 banking-support-agent](https://github.com/maneeshkumar52/banking-support-agent) | Multi-agent banking assistant |
+| [🕵️ fraud-analysis-assistant](https://github.com/maneeshkumar52/fraud-analysis-assistant) | Fraud detection & analysis assistant |
+
+---
+
+### 🏥 Healthcare AI
+| Project | Description |
+|---|---|
+| [🏥 healthcare-clinical-rag](https://github.com/maneeshkumar52/healthcare-clinical-rag) | Clinical RAG system for healthcare workflows |
+
+---
+
+### ⚖️ Legal AI
+| Project | Description |
+|---|---|
+| [⚖️ legal-document-analyser](https://github.com/maneeshkumar52/legal-document-analyser) | Legal document analysis & reasoning system |
+
+---
+
+### 👩‍💼 HR & Enterprise Automation
+| Project | Description |
+|---|---|
+| [👩‍💼 HR_Copilot](https://github.com/maneeshkumar52/HR_Copilot) | HR assistant for enterprise workflows |
+| [📜 hr-policy-rag](https://github.com/maneeshkumar52/hr-policy-rag) | Policy-based RAG system for HR teams |
+| [🎫 it-ticketing-agent](https://github.com/maneeshkumar52/it-ticketing-agent) | AI-powered IT support & ticket automation |
+
+---
+
+### 🛒 E-commerce & Customer Experience
+| Project | Description |
+|---|---|
+| [🛒 ecommerce-assistant](https://github.com/maneeshkumar52/ecommerce-assistant) | Conversational commerce AI assistant |
+| [🤝 contoso-support-agent](https://github.com/maneeshkumar52/contoso-support-agent) | Customer support AI agent |
+| [📊 contoso-research-system](https://github.com/maneeshkumar52/contoso-research-system) | Business intelligence assistant |
+
+---
+
+## 🛠️ Tech Stack
+
+### ☁️ Azure AI
+`Azure OpenAI` • `Azure AI Search` • `Cosmos DB` • `Azure Functions` • `Container Apps`
+
+### 🤖 AI Frameworks
+`LangChain` • `Semantic Kernel` • `AutoGen` • `OpenAI`
+
+### 💻 Engineering
+`Python` • `FastAPI` • `Docker` • `PostgreSQL` • `Redis`
+
+---
+
+## 🎯 Expertise
+
 
 ```
 Enterprise RAG Architecture     ████████████████████  Expert
@@ -104,22 +139,24 @@ AI Evaluation & Observability   ████████████████
 MLOps & Production Deployment   █████████████████░░░  Proficient
 ```
 
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=maneeshkumar52&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maneeshkumar52&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maneeshkumar52&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=maneeshkumar52&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maneeshkumar52&theme=tokyonight" />
 
 </div>
 
 ---
 
 ## 📬 Let's Connect
-
-I'm always open to discussing enterprise AI architecture, Azure AI implementations, or the ideas behind the book.
 
 <div align="center">
 
