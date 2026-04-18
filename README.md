@@ -202,7 +202,7 @@ MLOps & Production Deployment      ███████████████
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maneeshkumar52&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&icon_color=00B4D8&text_color=A8D8EA" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=maneeshkumar52&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&icon_color=00B4D8&text_color=A8D8EA" height="165"/>
 
 <img src="https://streak-stats.demolab.com?user=maneeshkumar52&theme=tokyonight&hide_border=true&background=0D1117&ring=0078D4&fire=00B4D8&currStreakLabel=A8D8EA" height="165"/>
 
