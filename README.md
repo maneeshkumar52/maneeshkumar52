@@ -82,6 +82,11 @@ All repositories below were refreshed with professional README structure (archit
 
 | Repository | Focus Area |
 |---|---|
+| [agent_voxcpm](https://github.com/maneeshkumar52/agent_voxcpm) | Voice-enabled multi-agent system |
+| [pageindex-enterprise-wiki](https://github.com/maneeshkumar52/pageindex-enterprise-wiki) | Enterprise wiki and retrieval portal |
+| [HR_Copilot](https://github.com/maneeshkumar52/HR_Copilot) | HR multi-agent employee copilot |
+| [llm-wiki](https://github.com/maneeshkumar52/llm-wiki) | Local-first knowledge wiki assistant |
+| [agents-mcp-system](https://github.com/maneeshkumar52/agents-mcp-system) | Multi-agent collaboration via MCP + Ollama + Streamlit |
 | [multi-agentic-ai](https://github.com/maneeshkumar52/multi-agentic-ai) | Multi-agent research and governance pipeline |
 | [banking-support-agent](https://github.com/maneeshkumar52/banking-support-agent) | Banking support automation |
 | [contoso-research-system](https://github.com/maneeshkumar52/contoso-research-system) | Enterprise research orchestration |
@@ -97,10 +102,7 @@ All repositories below were refreshed with professional README structure (archit
 | [legal-document-analyser](https://github.com/maneeshkumar52/legal-document-analyser) | Legal document intelligence |
 | [github-repo-documentation](https://github.com/maneeshkumar52/github-repo-documentation) | Automated repository documentation |
 | [rag-app](https://github.com/maneeshkumar52/rag-app) | Full-stack RAG platform |
-| [agent_voxcpm](https://github.com/maneeshkumar52/agent_voxcpm) | Voice-enabled multi-agent system |
-| [pageindex-enterprise-wiki](https://github.com/maneeshkumar52/pageindex-enterprise-wiki) | Enterprise wiki and retrieval portal |
-| [HR_Copilot](https://github.com/maneeshkumar52/HR_Copilot) | HR multi-agent employee copilot |
-| [llm-wiki](https://github.com/maneeshkumar52/llm-wiki) | Local-first knowledge wiki assistant |
+
 
 ### 🧠 Core Platforms
 
@@ -110,6 +112,7 @@ All repositories below were refreshed with professional README structure (archit
 | [enterprise-copilot](https://github.com/maneeshkumar52/enterprise-copilot) | Multi-domain enterprise copilot with orchestration and routing |
 | [executive-briefing-system](https://github.com/maneeshkumar52/executive-briefing-system) | AI-powered executive intelligence and document summarization |
 | [financial-research-system](https://github.com/maneeshkumar52/financial-research-system) | Automated financial research and market intelligence platform |
+| [agents-mcp-system](https://github.com/maneeshkumar52/agents-mcp-system) | Multi-agent MCP orchestration with Ollama + Streamlit UI |
 
 ### 🏦 Banking & Financial AI
 
