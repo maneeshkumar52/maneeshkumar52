@@ -76,6 +76,32 @@ A practitioner's guide to designing and shipping production-grade AI systems —
 
 ## 🗂️ Enterprise AI Portfolio
 
+### ✅ Recently Standardized (Architect-Grade)
+
+All repositories below were refreshed with professional README structure (architecture, setup, execution, validation, troubleshooting) and validated for source-level syntax readiness.
+
+| Repository | Focus Area |
+|---|---|
+| [multi-agentic-ai](https://github.com/maneeshkumar52/multi-agentic-ai) | Multi-agent research and governance pipeline |
+| [banking-support-agent](https://github.com/maneeshkumar52/banking-support-agent) | Banking support automation |
+| [contoso-research-system](https://github.com/maneeshkumar52/contoso-research-system) | Enterprise research orchestration |
+| [contoso-support-agent](https://github.com/maneeshkumar52/contoso-support-agent) | Multi-service customer support agents |
+| [ecommerce-assistant](https://github.com/maneeshkumar52/ecommerce-assistant) | Conversational commerce assistant |
+| [enterprise-copilot](https://github.com/maneeshkumar52/enterprise-copilot) | Enterprise copilot platform |
+| [executive-briefing-system](https://github.com/maneeshkumar52/executive-briefing-system) | Executive intelligence briefing |
+| [financial-research-system](https://github.com/maneeshkumar52/financial-research-system) | Financial research automation |
+| [fraud-analysis-assistant](https://github.com/maneeshkumar52/fraud-analysis-assistant) | Fraud analysis and risk triage |
+| [healthcare-clinical-rag](https://github.com/maneeshkumar52/healthcare-clinical-rag) | Clinical RAG workflows |
+| [hr-policy-rag](https://github.com/maneeshkumar52/hr-policy-rag) | HR policy-grounded retrieval |
+| [it-ticketing-agent](https://github.com/maneeshkumar52/it-ticketing-agent) | IT ticket routing and agentic support |
+| [legal-document-analyser](https://github.com/maneeshkumar52/legal-document-analyser) | Legal document intelligence |
+| [github-repo-documentation](https://github.com/maneeshkumar52/github-repo-documentation) | Automated repository documentation |
+| [rag-app](https://github.com/maneeshkumar52/rag-app) | Full-stack RAG platform |
+| [agent_voxcpm](https://github.com/maneeshkumar52/agent_voxcpm) | Voice-enabled multi-agent system |
+| [pageindex-enterprise-wiki](https://github.com/maneeshkumar52/pageindex-enterprise-wiki) | Enterprise wiki and retrieval portal |
+| [HR_Copilot](https://github.com/maneeshkumar52/HR_Copilot) | HR multi-agent employee copilot |
+| [llm-wiki](https://github.com/maneeshkumar52/llm-wiki) | Local-first knowledge wiki assistant |
+
 ### 🧠 Core Platforms
 
 | Repository | What it does |
